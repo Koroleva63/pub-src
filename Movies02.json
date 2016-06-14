@@ -1,0 +1,40 @@
+[
+    {
+        "id" : 1234567101,
+        "Name" : "House of Cards",
+        "Year" : "2013",
+        "Budget" : 60000000.0,
+        "Directors" : [
+            {
+                "Name" : "James Foley",
+                "Year_of_birth" : 1953,
+                "Place_of_birth" : "Brooklyn, New York City, New York, USA"
+            },
+            {
+                "Name" : "Robin Wright",
+                "Year_of_birth" : 1966,
+                "Place_of_birth" : "Dallas, Texas, USA"
+            },
+            {
+                "Name" : "John David Coles"
+            }
+        ],
+        "Actors" : [
+            {
+                "Name" : "Kevin Spacey",
+                "Year_of_birth" : 1959,
+                "Place_of_birth" : "South Orange, New Jersey, USA"
+            },
+            {
+                "Name" : "Robin Wright",
+                "Year_of_birth" : 1967,
+                "Place_of_birth" : "Dallas, Texas, USA"
+            },
+            {
+                "Name" : "Kate Mara",
+                "Year_of_birth" : 1983,
+                "Place_of_birth" : "Bedford, New York, USA"
+            }
+        ]
+    }
+]
